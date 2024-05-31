@@ -13,51 +13,52 @@ export class PortfolioComponent {
   constructor(public _lightbox: Lightbox) {}
   data = [
     {
-      title: 'Iphone mockup',
+      title: 'Katara Fountain',
       text: 'Abstract',
-      src: 'assets/images/portfolio/1.jpg',
-      type: 'Branding'
-    },
-    {
-      title: 'Mockup Collection',
-      text: 'Abstract',
-      src: 'assets/images/portfolio/2.jpg',
-      type: 'Designing'
-    },
-    {
-      title: 'Abstract images',
-      text: 'Abstract',
-      src: 'assets/images/portfolio/3.jpg',
+      src: 'assets/images/portfolio/19.jpg',
       type: 'Photography'
     },
     {
-      title: 'Yellow bg with Books',
-      text: 'Books',
-      src: 'assets/images/portfolio/4.jpg',
-      type: 'Development'
-    },
-    {
-      title: 'Company V-card',
-      text: 'V-card',
-      src: 'assets/images/portfolio/5.jpg',
-      type: 'Branding'
-    },
-    {
-      title: 'Iphone mockup',
+      title: 'Fireworks',
       text: 'Abstract',
-      src: 'assets/images/portfolio/6.jpg',
-      type: 'Branding'
+      src: 'assets/images/portfolio/10.jpg',
+      type: 'Photography'
+    },
+
+    {
+      title: 'Lusail Ramadan',
+      text: 'Books',
+      src: 'assets/images/portfolio/14.jpg',
+      type: 'Festival'
+    },
+    {
+      title: 'Fireworks',
+      text: 'Abstract',
+      src: 'assets/images/portfolio/21.jpg',
+      type: 'Photography'
+    },
+    {
+      title: 'Lusail Ramadan',
+      text: 'V-card',
+      src: 'assets/images/portfolio/15.jpg',
+      type: 'Festival'
+    },
+    {
+      title: 'Lusail Ramadan',
+      text: 'Abstract',
+      src: 'assets/images/portfolio/16.jpg',
+      type: 'Festival'
     },
     {
       title: 'Mockup Collection',
       text: 'Abstract',
-      src: 'assets/images/portfolio/7.jpg',
+      src: 'assets/images/portfolio/17.jpg',
       type: 'Designing'
     },
     {
       title: 'Abstract images',
       text: 'Abstract',
-      src: 'assets/images/portfolio/8.jpg',
+      src: 'assets/images/portfolio/18.jpg',
       type: 'Photography'
     },
   ];
