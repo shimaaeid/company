@@ -11,11 +11,11 @@
             @apply relative mx-0;
           }
           .nav-link {
-              @apply block p-3 text-slate-900 hover:text-orange-600 dark:text-dark/60 dark:hover:text-white;
+              @apply block p-3 text-slate-900 hover:text-yellow-700 dark:text-dark/60 dark:hover:text-white;
           }
           .active {
               .nav-link {
-                  @apply text-orange-600 dark:text-white;
+                  @apply text-yellow-700 dark:text-white;
               }
           }
       }
@@ -115,17 +115,17 @@
               }
               .active {
                   .nav-link {
-                      @apply text-orange-600;
+                      @apply text-yellow-700;
                   }
               }
 
               &.nav-light {
                   .nav-link {
-                      @apply text-slate-900 hover:text-orange-600 dark:text-white/60 dark:hover:text-white #{!important};
+                      @apply text-slate-900 hover:text-yellow-700 dark:text-white/60 dark:hover:text-white #{!important};
                   }
                   .active {
                       .nav-link {
-                          @apply text-orange-600 dark:text-white #{!important};
+                          @apply text-yellow-700 dark:text-white #{!important};
                       }
                   }
               }
@@ -145,7 +145,7 @@
               }
               .active {
                   .nav-link {
-                      @apply text-orange-600;
+                      @apply text-yellow-700;
                   }
               }
               .menu-social {
